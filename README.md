@@ -9,5 +9,5 @@ Demographics of Columbia University from 1996 to 2017, collected by <i>The Eye</
 
 <li>All demographic data is for U.S. citizens and permanent residents unless otherwise noted.</li>
 
-More information in the [codebook] (https://github.com/TheEyeMagazine/columbia-demographics/blob/master/codebook-Columbia-demographics.txt).
+More information in the [codebook](https://github.com/TheEyeMagazine/columbia-demographics/blob/master/codebook-Columbia-demographics.txt).
 
