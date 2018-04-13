@@ -11,8 +11,8 @@ Contents
 Collected by The Eye at the Columbia Daily Spectator
 
 Find more on GitHub and on our website:
-      [insert GitHub link here]
-      https://www.columbiaspectator.com/
+      https://github.com/TheEyeMagazine
+      https://www.columbiaspectator.com/eye
  
 --------------------------------------------------------------------------------
 Data Summary
