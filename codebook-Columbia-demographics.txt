@@ -1,0 +1,168 @@
+--------------------------------------------------------------------------------
+Codebook for Columbia University Demographic Data: CC and SEAS
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Sources
+    - Citation and Use
+ 
+Collected by The Eye at the Columbia Daily Spectator
+
+Find more on GitHub and on our website:
+      [insert GitHub link here]
+      https://www.columbiaspectator.com/
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Years:            1996-2017
+Source:           Archived Columbia University websites, namely statistical abstracts from the Office of Planning and Institutional Research
+Notes: 
+
+All data is only for Columbia College (CC) and Columbia School of Engineering and Applied Science (SEAS) undergraduates.
+
+All demographic data is for U.S. citizens and permanent residents unless otherwise noted.
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+        Year:        Year of data; Fall semester.
+        nAsian:      Number of Asian students
+        pAsian:	      Percent Asian students in student body 
+        nBlack:      Number of black students
+        pBlack:      Percent black students in student body
+        nHispanic:   Number of Hispanic students
+        pHispanic:   Percent Hispanic students in student body
+        nNative:     Number of American Indians and Alaskan Natives (from 2010 on: includes Native Hawaiian category)
+        pNative:     Percent of American Indians and Alaskan Natives (from 2010 on: includes Native Hawaiian category) in student body
+        nTwoMore:    Number of students with two or more races (from 1996 to 2010: includes "other" and "bi- or multi-racial" categories)
+        pTwoMore:    Percent of students with two or more races (from 1996 to 2010: includes "other" and "bi- or multi-racial" categories) in student body
+        nUnknown:    Number of students of unknown race (in 1996: includes international students) 
+        pUnknown:    Percent of students of unknown race (in 1996: includes international students) in student body
+        nWhite:      Number of white students
+        pWhite:      Percent of white students in student body
+        nIntl:       Number of non-resident aliens students
+        pIntl:       Percent non-resident aliens in student body
+        nTotal:      Total number of students
+        Notes:       Details any factors specific to the year in question
+        Source1:     Primary web source of data
+        Source2:     Secondary web source of data
+
+Summary of Notes:
+
+	From 1996 to 2010, an "Other" category - sometimes explicitly specifying inclusion of bi- or multi-racial students - was used instead of the category of "Two or more." This dataset counts this "Other" category as "Two or more." 
+
+From 2010 to 2017, a "Native Hawaiian" category was used. This dataset includes this category under "Native". 
+
+        For 1996, the "Unknown" category includes non-resident aliens. 
+        For 1998, all numbers include non-resident aliens.
+        For 1999, exact numbers are not available. All percentages from CC and SEAS include non-resident aliens.
+        For 2000, all numbers include non-resident aliens. 
+
+--------------------------------------------------------------------------------
+Sources
+--------------------------------------------------------------------------------
+ 
+1996 
+        Source Name:        Office of the Registrar Fall 1996 Enrollment Report
+        Source Link:        https://web.archive.org/web/20010407090003/http://www.cc.columbia.edu:80/cu/opir/statab2/1997/toc.html
+
+1997 
+        Source Name:        Office of the Registrar Fall 1997 Enrollment Report
+        Source Link:        https://web.archive.org/web/20010407090448/http://www.cc.columbia.edu:80/cu/opir/statab2/1998/toc.html
+
+1998
+        Source Name:        Student Information Services
+        Source Link:        https://web.archive.org/web/20010407091222/http://www.cc.columbia.edu:80/cu/opir/statab2/1999/toc.html
+
+1999 
+        Source Name:        Student Information Services
+        Source Link:        https://web.archive.org/web/20010308100751/http://www.cc.columbia.edu:80/cu/opir/statab2/2000/toc.html
+
+2000 
+        Source Name:        Student Information Services
+        Source Link:        https://web.archive.org/web/20010504192050/http://www.columbia.edu:80/cu/opir/2001.htm
+        Source Link:        https://web.archive.org/web/20180404202438/http://www.columbia.edu/cu/opir/abstract_archive/2001enrol3.htm
+
+2001 
+        Source Name:        Student Information Services
+        Source Link:        https://web.archive.org/web/20040217143118/http://www.columbia.edu:80/cu/opir/2002enrol4.htm#a
+        Source Link:        https://web.archive.org/web/20040217142650/http://www.columbia.edu:80/cu/opir/2002enrol3.htm
+
+2002 
+        Source Name:        Student Information Services
+        Source Link:        https://web.archive.org/web/20180404202126/http://www.columbia.edu/cu/opir/abstract/enrollment_ethnicity_2002.html
+
+2003 
+        Source Name:        Student Information Services
+        Source Link:        https://web.archive.org/web/20180404202153/http://www.columbia.edu/cu/opir/abstract/enrollment_ethnicity_2003.html
+
+2004 
+        Source Name:        Student Information Services
+        Source Link:        https://web.archive.org/web/20180404202224/http://www.columbia.edu/cu/opir/abstract/enrollment_ethnicity_2004.html
+
+2005 
+        Source Name:        Student Information Systems
+        Source Link:        https://web.archive.org/web/20180404202252/http://www.columbia.edu/cu/opir/abstract/enrollment_ethnicity_2005.html
+
+2006 
+        Source Name:        Student Information Systems
+        Source Link:        https://web.archive.org/web/20180404202311/http://www.columbia.edu/cu/opir/abstract/enrollment_ethnicity_2006.html
+
+2007 
+        Source Name:        Student Information Systems
+        Source Link:        https://web.archive.org/web/20090201184317/http://www.columbia.edu:80/cu/opir/abstract/enrollment_ethnicity_2007.htm
+
+2008 
+        Source Name:        Student Information Systems
+        Source Link:        https://web.archive.org/web/20090201064423/http://columbia.edu:80/cu/opir/abstract/2008-enrollment_ethnicity.htm
+
+2009 
+        Source Name:        Student Information Systems
+        Source Link:        https://web.archive.org/web/20100108165912/http://www.columbia.edu:80/cu/opir/abstract/2009-enrollment_ethnicity.htm
+
+2010 
+        Source Name:        Student Information Systems
+        Source Link:        https://web.archive.org/web/20110117053940/http://www.columbia.edu:80/cu/opir/abstract/2010-enrollment_ethnicity.htm
+
+2011 
+        Source Name:        Student Information Services
+        Source Link:        https://web.archive.org/web/20121027154154/http://www.columbia.edu/cu/opir/abstract/opir_enrollment_ethnicity_1.htm
+
+2012 
+        Source Name:        Student Information Services
+        Source Link:        https://web.archive.org/web/20130702050722/http://www.columbia.edu/cu/opir/abstract/opir_enrollment_ethnicity_1.htm
+
+2013 
+        Source Name:        Student Information Services
+        Source Link:        https://web.archive.org/web/20140717104855/http://www.columbia.edu/cu/opir/abstract/opir_enrollment_ethnicity_1.htm
+
+2014 
+        Source Name:        Student Information Services
+        Source Link:        https://web.archive.org/web/20150329085257/http://www.columbia.edu/cu/opir/abstract/opir_enrollment_ethnicity_1.htm
+
+2015 
+        Source Name:        Student Information Services
+        Source Link:        https://web.archive.org/web/20160404183247/http://www.columbia.edu/cu/opir/abstract/opir_enrollment_ethnicity_1.htm
+
+2016 
+        Source Name:        Student Information Services
+        Source Link:        https://web.archive.org/web/20170711185640/http://www.columbia.edu/cu/opir/abstract/opir_enrollment_ethnicity_1.htm
+
+2017 
+        Source Name:        Student Information Services
+        Source Link:        https://web.archive.org/web/20180404202346/http://www.columbia.edu/cu/opir/abstract/opir_enrollment_ethnicity_1.htm
+
+--------------------------------------------------------------------------------
+Citation and Use of Columbia Spectator Data
+--------------------------------------------------------------------------------
+ 
+Please cite your source as the The Eye magazine. We’d love to hear from you if you use it, or if you have any questions!
+
+
+Feel free to get in touch at editor@columbiaspectator.com.
