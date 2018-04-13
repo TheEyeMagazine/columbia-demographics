@@ -11,3 +11,7 @@ Demographics of Columbia University from 1996 to 2017, collected by <i>The Eye</
 <br>
 More information in the [codebook](https://github.com/TheEyeMagazine/columbia-demographics/blob/master/codebook-Columbia-demographics.txt).
 
+This data has been used in the following stories:
+
+<li></li>
+
