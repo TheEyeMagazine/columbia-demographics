@@ -13,5 +13,7 @@ More information in the [codebook](https://github.com/TheEyeMagazine/columbia-de
 
 This data has been used in the following stories:
 
-<li>[Socioeconomic Diversity is Stagnating at Columbia](https://www.columbiaspectator.com/eye/socioeconomic-diversity-is-stagnating/)</li>
+- [Socioeconomic Diversity is Stagnating at Columbia](https://www.columbiaspectator.com/eye/socioeconomic-diversity-is-stagnating/) 
+
+
 
